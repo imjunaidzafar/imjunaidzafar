@@ -18,9 +18,7 @@ I build **custom solutions for businesses**, handling both **Front-End and Back-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=imjunaidzafar&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ## 🤝 Let’s Connect
 Have an idea, a project, or just want to talk tech?<br>
 I’m always happy to connect and explore how we can build something great together.
-
 [![Email](https://img.shields.io/badge/Email-mjunaid.zafar01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mjunaid.zafar01@gmail.com)
