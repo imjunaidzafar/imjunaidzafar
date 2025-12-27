@@ -15,10 +15,8 @@ I build **custom solutions for businesses**, handling both **Front-End and Back-
 ![](https://github-readme-stats.vercel.app/api?username=imjunaidzafar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=imjunaidzafar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imjunaidzafar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=imjunaidzafar&icon=0&color=0)](https://visitcount.itsvg.in)
 ## 🤝 Let’s Connect
 Have an idea, a project, or just want to talk tech?<br>
 I’m always happy to connect and explore how we can build something great together.
+
 [![Email](https://img.shields.io/badge/Email-mjunaid.zafar01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mjunaid.zafar01@gmail.com)
